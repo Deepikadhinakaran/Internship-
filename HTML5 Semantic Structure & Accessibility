@@ -7,26 +7,26 @@
   <!-- ═══════════════════════════════════════════════
        SEO META TAGS
   ═══════════════════════════════════════════════ -->
-  <title>Deepika R — Full-Stack Developer & AI Engineer</title>
-  <meta name="description" content="Deepika R is a full-stack developer specialising in React, AWS, and AI-powered applications. Available for freelance and full-time roles." />
+  <title>Deepika D — Full-Stack Developer & AI Engineer</title>
+  <meta name="description" content="Deepika D is a full-stack developer specialising in React, AWS, and AI-powered applications. Available for freelance and full-time roles." />
   <meta name="keywords" content="full-stack developer, React, AWS, AI engineer, portfolio, web developer Chennai" />
-  <meta name="author" content="Deepika R" />
+  <meta name="author" content="Deepika D" />
   <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="https://deepikar.dev/" />
+  <link rel="canonical" href="https://deepika.dev/" />
 
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://deepikar.dev/" />
-  <meta property="og:title" content="Deepika R — Full-Stack Developer & AI Engineer" />
+  <meta property="og:url" content="https://deepikad.dev/" />
+  <meta property="og:title" content="Deepika D — Full-Stack Developer & AI Engineer" />
   <meta property="og:description" content="Building high-performance web apps with React, AWS, and AI. Explore my work and get in touch." />
-  <meta property="og:image" content="https://deepikar.dev/og-image.jpg" />
-  <meta property="og:image:alt" content="Deepika R portfolio preview" />
+  <meta property="og:image" content="https://deepikad.dev/og-image.jpg" />
+  <meta property="og:image:alt" content="Deepika D portfolio preview" />
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Deepika R — Full-Stack Developer & AI Engineer" />
+  <meta name="twitter:title" content="Deepika D — Full-Stack Developer & AI Engineer" />
   <meta name="twitter:description" content="Building high-performance web apps with React, AWS, and AI." />
-  <meta name="twitter:image" content="https://deepikar.dev/og-image.jpg" />
+  <meta name="twitter:image" content="https://deepikad.dev/og-image.jpg" />
 
   <!-- ═══════════════════════════════════════════════
        STRUCTURED DATA (JSON-LD)
@@ -35,13 +35,13 @@
   {
     "@context": "https://schema.org",
     "@type": "Person",
-    "name": "Deepika R",
-    "url": "https://deepikar.dev",
+    "name": "Deepika D",
+    "url": "https://deepikad.dev",
     "jobTitle": "Full-Stack Developer",
     "worksFor": { "@type": "Organization", "name": "Freelance" },
     "sameAs": [
-      "https://github.com/deepikar",
-      "https://linkedin.com/in/deepikar"
+      "https://github.com/deepikad",
+      "https://linkedin.com/in/deepikad"
     ]
   }
   </script>
@@ -825,7 +825,7 @@
   ══════════════════════════════════════════════════ -->
   <header class="site-header" role="banner">
     <div class="nav-inner">
-      <a class="nav-logo" href="#" onclick="navigate('home')" aria-label="Deepika R — Home">DR</a>
+      <a class="nav-logo" href="#" onclick="navigate('home')" aria-label="Deepika D — Home">DR</a>
 
       <button
         class="nav-toggle"
@@ -866,7 +866,7 @@
             Available for work
           </div>
 
-          <h1 class="hero-name" id="hero-heading">Deepika R</h1>
+          <h1 class="hero-name" id="hero-heading">Deepika D</h1>
           <p class="hero-title" aria-label="Role: Full-Stack Developer & AI Engineer">
             Full-Stack Developer<br aria-hidden="true" /> & AI Engineer
           </p>
@@ -1215,23 +1215,23 @@
           <aside aria-label="Contact details and social links">
             <p>I'm open to full-time roles, freelance contracts, and interesting collaboration. Drop me a message and I'll reply within 24 hours.</p>
 
-            <ul class="contact-links" aria-label="Ways to contact Deepika R">
+            <ul class="contact-links" aria-label="Ways to contact Deepika D">
               <li>
-                <a href="mailto:deepika@deepikar.dev" aria-label="Send email to deepika at deepikar dot dev">
+                <a href="mailto:deepika@deepikad.dev" aria-label="Send email to deepika at deepikar dot dev">
                   <span class="contact-icon" aria-hidden="true">✉</span>
-                  deepika@deepikar.dev
+                  deepika@deepikad.dev
                 </a>
               </li>
               <li>
-                <a href="https://linkedin.com/in/deepikar" target="_blank" rel="noopener noreferrer" aria-label="Visit Deepika's LinkedIn profile (opens in new tab)">
+                <a href="https://linkedin.com/in/deepikad" target="_blank" rel="noopener noreferrer" aria-label="Visit Deepika's LinkedIn profile (opens in new tab)">
                   <span class="contact-icon" aria-hidden="true">in</span>
-                  linkedin.com/in/deepikar
+                  linkedin.com/in/deepikad
                 </a>
               </li>
               <li>
-                <a href="https://github.com/deepikar" target="_blank" rel="noopener noreferrer" aria-label="Visit Deepika's GitHub profile (opens in new tab)">
+                <a href="https://github.com/deepikad" target="_blank" rel="noopener noreferrer" aria-label="Visit Deepika's GitHub profile (opens in new tab)">
                   <span class="contact-icon" aria-hidden="true">GH</span>
-                  github.com/deepikar
+                  github.com/deepikad
                 </a>
               </li>
             </ul>
@@ -1374,20 +1374,20 @@
   <footer class="site-footer" role="contentinfo">
     <div class="footer-inner">
       <p class="footer-copy">
-        &copy; <time datetime="2026">2026</time> <strong>Deepika R</strong> — Built with semantic HTML5 &amp; love for the web.
+        <time datetime="2026">2026</time> <strong>Deepika D</strong> — Built with semantic HTML5  love for the web.
       </p>
       <nav aria-label="Social media links">
         <ul class="footer-social" role="list">
           <li>
-            <a href="https://github.com/deepikar" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/deepikad" target="_blank" rel="noopener noreferrer"
                aria-label="GitHub profile (opens in new tab)" title="GitHub">GH</a>
           </li>
           <li>
-            <a href="https://linkedin.com/in/deepikar" target="_blank" rel="noopener noreferrer"
+            <a href="https://linkedin.com/in/deepikad" target="_blank" rel="noopener noreferrer"
                aria-label="LinkedIn profile (opens in new tab)" title="LinkedIn">in</a>
           </li>
           <li>
-            <a href="mailto:deepika@deepikar.dev"
+            <a href="mailto:deepika@deepikad.dev"
                aria-label="Send email" title="Email">✉</a>
           </li>
         </ul>
